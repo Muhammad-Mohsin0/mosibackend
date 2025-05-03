@@ -1,0 +1,19 @@
+{
+  "name": "mosibackend",
+  "version": "1.0.0",
+  "description": "learning a app deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "mosi"
+  ],
+  "author": "mohsin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
